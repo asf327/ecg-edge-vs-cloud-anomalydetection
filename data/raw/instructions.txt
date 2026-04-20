@@ -1,0 +1,3 @@
+Put the data in here from this link: https://physionet.org/content/mitdb/1.0.0/
+
+Rename the folder to be mitbih
